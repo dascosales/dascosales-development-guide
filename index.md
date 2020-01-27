@@ -2,12 +2,15 @@
 layout: default
 ---
 
-# Dascosales Development Guide
+# `dascosales` Development Guide
 
-This guide is the entry point for all members of the Development Team.
+This guide is the entry point and reference for all members of the Development Team.
 
 ### Quicklinks
 - [About Daughtridge Sales](./about-dascosales)
-- PR Guide
+- [Getting Started](./getting-started)
+- [PR Guides](./pr-guides)
+- [CHANGELOG Practices](./changelog-practices)
 - Stack
-- Onboarding
+
+This guide is a working draft. If you do not find something here you are looking for please check https://github.com/dascosales/dev-team/wiki if your permissions allow.
