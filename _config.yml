@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 title: Daughtridge Sales Development Guide
 description: This is the public documentation for Daughtridge Sales Development Teams
 show_downloads: false
+baseurl: /dascosales-development-guide
