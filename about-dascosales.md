@@ -1,12 +1,12 @@
 ---
-layout: page
-title: "About Dascosales"
+layout: default
+title: "About Daughtridge Sales"
 permalink: /about-dascosales/
 ---
 
-# About Dascosales
+# About Daughtridge Sales
 
-Dascosales is the shortname for Daughtridge Sales, Inc.
+`dascosales` is the shortname for Daughtridge Sales, Inc.
 
 We are a distributer of industrial instruments such as pressure gauges, thermometers, diaphragm seals, switches, transistors and transducers.
 
@@ -15,3 +15,5 @@ Our Development Team creates internal and customer facing solutions in modern we
 # Employement Opportunities
 
 None specific at this time.
+
+[back](./)
